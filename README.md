@@ -1,12 +1,9 @@
-<h2 align="center"> Hey there! I'm Allan Rubén Prieto.</h2>
+<h2 align="center"> Hey 👋! Soy Allan Rubén Prieto.</h2>
 
-<h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+Soy Allan, un desarrollador en constante crecimiento con experiencia en el campo de la computación. Actualmente estoy estudiando en el Tecnológico de Costa Rica (TEC) 🎓 y previamente fui estudiante en el (CUC) 🎓. Me enfoco en mejorar constantemente mis habilidades en programación y desarrollo, siempre estoy interesado en aprender sobre las nuevas tecnologías de inteligencia artificial y en el desarrollo de aplicaciones✍️. Mi objetivo es convertirme en un desarrollador senior altamente capacitado. Echa un vistazo a mi repositorio para ver algunos de mis trabajos y no dudes en ponerte en contacto si tienes alguna pregunta o colaboración. 💼
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
