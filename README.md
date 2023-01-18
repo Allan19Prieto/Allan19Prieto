@@ -9,10 +9,7 @@
 
 Soy Allan, un desarrollador en constante crecimiento con experiencia en el campo de la computación. Actualmente estoy estudiando en el Tecnológico de Costa Rica (TEC) 🎓 y previamente fui estudiante en el (CUC) 🎓. Me enfoco en mejorar constantemente mis habilidades en programación y desarrollo, siempre estoy interesado en aprender sobre las nuevas tecnologías de inteligencia artificial y en el desarrollo de aplicaciones✍️. Mi objetivo es convertirme en un desarrollador senior altamente capacitado. Echa un vistazo a mi repositorio para ver algunos de mis trabajos y no dudes en ponerte en contacto si tienes alguna pregunta o colaboración. 💼
 
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- 🌱 I’m currently learning <img height="20">
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
