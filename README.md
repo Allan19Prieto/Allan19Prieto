@@ -1,6 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allan-prieto-sofware-engineer-b20567149/)
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
+[<img src="https://img.shields.io/github/followers/Allan19Prieto?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Allan19Prieto) 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rubenprietoba)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/AllanPrieto3)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
 <h2 align="center"> Hey 👋! Soy Allan Rubén Prieto.</h2>
@@ -35,8 +36,8 @@ Soy Allan, un desarrollador en constante crecimiento con experiencia en el campo
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan19Prieto&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan19Prieto&theme=buefy&layout=compact" />
 </a>
 <br/>
 ⭐️ From [Allan19Prieto](https://github.com/Allan19Prieto)
