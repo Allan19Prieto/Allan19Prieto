@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there! I'm Allan Rubén Prieto.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3 align="left"> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
