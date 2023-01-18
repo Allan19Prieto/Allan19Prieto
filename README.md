@@ -35,7 +35,7 @@ Soy Allan, un desarrollador en constante crecimiento con experiencia en el campo
   ![Visual Studio .NET](https://img.shields.io/badge/-Visual%20Studio%20.NET-333333?style=flat&logo=Visual%20Studio&logoColor=F400A1)
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Allan19Prieto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan19Prieto&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan19Prieto&theme=buefy&layout=compact" />
 </a>
