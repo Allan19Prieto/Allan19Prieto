@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allan-prieto-sofware-engineer-b20567149/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
@@ -38,16 +38,5 @@ Soy Allan, un desarrollador en constante crecimiento con experiencia en el campo
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
-
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
-
 ⭐️ From [Allan19Prieto](https://github.com/Allan19Prieto)
