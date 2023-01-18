@@ -1,17 +1,20 @@
 <h2 align="center"> Hey 👋! Soy Allan Rubén Prieto.</h2>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 Soy Allan, un desarrollador en constante crecimiento con experiencia en el campo de la computación. Actualmente estoy estudiando en el Tecnológico de Costa Rica (TEC) 🎓 y previamente fui estudiante en el (CUC) 🎓. Me enfoco en mejorar constantemente mis habilidades en programación y desarrollo, siempre estoy interesado en aprender sobre las nuevas tecnologías de inteligencia artificial y en el desarrollo de aplicaciones✍️. Mi objetivo es convertirme en un desarrollador senior altamente capacitado. Echa un vistazo a mi repositorio para ver algunos de mis trabajos y no dudes en ponerte en contacto si tienes alguna pregunta o colaboración. 💼
 
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![C#](https://img.shields.io/badge/-C%23-333333?)
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
