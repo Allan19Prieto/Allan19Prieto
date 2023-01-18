@@ -36,7 +36,7 @@ Soy Allan, un desarrollador en constante crecimiento con experiencia en el campo
 <br/>
 
 <a href="https://github.com/Allan19Prieto">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allan19Prieto&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan19Prieto&theme=buefy&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan19Prieto&theme=buefy&layout=compact" />
 </a>
 <br/>
