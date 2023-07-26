@@ -19,12 +19,12 @@ Soy Allan, un desarrollador en constante crecimiento con experiencia en el campo
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.NET&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=Blazor&logoColor=00599C)
 - 🛢 &nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
