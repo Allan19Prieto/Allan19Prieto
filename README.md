@@ -4,20 +4,19 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/AllanPrieto3)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
-<h2 align="center"> Hey 👋! Soy Allan Rubén Prieto.</h2>
+<h2 align="center"> Hey there 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Soy Allan, un desarrollador en constante crecimiento con experiencia en el campo de la computación. Actualmente estoy estudiando en el Tecnológico de Costa Rica (TEC) 🎓 y previamente fui estudiante en el (CUC) 🎓. Me enfoco en mejorar constantemente mis habilidades en programación y desarrollo, siempre estoy interesado en aprender sobre las nuevas tecnologías de inteligencia artificial y en el desarrollo de aplicaciones✍️. Mi objetivo es convertirme en un desarrollador senior altamente capacitado. Echa un vistazo a mi repositorio para ver algunos de mis trabajos y no dudes en ponerte en contacto si tienes alguna pregunta o colaboración. 💼
+Soy un desarrollador con experiencia en el campo del desarrollo de software y el desarrollo Web. También soy estudiante del Tecnológico de Costa Rica (TEC) 🎓 y graduado del (CUC) 🎓 en computación. Me interesa la inteligencia artificial, el blockchain y el diseño ✍️. 
 
 - 🌱 I’m currently learning <img height="20">
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%23&logoColor=00599C)
-  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.NET&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+
+  
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
