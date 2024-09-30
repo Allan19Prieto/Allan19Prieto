@@ -10,7 +10,7 @@
 
 Soy un desarrollador con experiencia en el campo del desarrollo de software y el desarrollo Web. También soy estudiante del Tecnológico de Costa Rica (TEC) 🎓 y graduado del (CUC) 🎓 en computación. Me interesa la inteligencia artificial, el blockchain y el diseño ✍️. 
 
-- 🌱 I’m currently learning <img height="20">
+- 🌱 I’m currently learning. <img height="20">
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
