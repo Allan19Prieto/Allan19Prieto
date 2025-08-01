@@ -8,7 +8,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Soy un desarrollador con experiencia en el campo del desarrollo de software y el desarrollo Web. También soy estudiante del Tecnológico de Costa Rica (TEC) 🎓 y graduado del (CUC) 🎓 en computación. Me interesa la inteligencia artificial, el blockchain y el diseño ✍️. 
+Developer with experience in software and web development. I hold a degree in Computer Science from the Colegio Universitario de Cartago (CUC) 🎓 and I'm currently furthering my education in Computer Engineering at the Tecnológico de Costa Rica (TEC) 🎓.
+
+I'm passionate about emerging technologies like artificial intelligence, blockchain, and design ✍️. I enjoy combining logical thinking with creativity to build efficient, functional, and visually appealing solutions.
+
+In this repository, you'll find some of my projects, learning journeys, and ongoing experiments. I'm always looking to grow and contribute to meaningful tech initiatives.
 
 - 🌱 I’m currently learning. <img height="20">
 
