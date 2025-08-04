@@ -39,6 +39,8 @@ In this repository, you'll find some of my projects, learning journeys, and ongo
 <a href="https://github.com/Allan19Prieto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Allan19Prieto&theme=buefy&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan19Prieto&theme=buefy&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan19Prieto&layout=compact" />
+
 </a>
 <br/>
 ⭐️ From [Allan19Prieto](https://github.com/Allan19Prieto)
