@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Developer with experience in software and web development. I hold a degree in Computer Science from the Colegio Universitario de Cartago (CUC) 🎓 and I'm currently furthering my education in Computer Engineering at the Tecnológico de Costa Rica (TEC) 🎓.
+Developer with experience in software and web development. From the Colegio Universitario de Cartago (CUC) 🎓 and I'm currently furthering my education in Computer Engineering at the Tecnológico de Costa Rica (TEC) 🎓.
 
 I'm passionate about emerging technologies like artificial intelligence, blockchain, and design ✍️. I enjoy combining logical thinking with creativity to build efficient, functional, and visually appealing solutions.
 
